@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">VisualElements</string>
     <string name="hello_text">String from a resource</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Seguidores</string>
+    <string name="following">Seguindo</string>
+
+    <string name="user_name">Igor Montezuma</string>
+    <string name="ig_profile_description">Musculação\nprogramação\ngames</string>
+    <string name="ig_profile_button">Editar Perfil</string>
 </resources>

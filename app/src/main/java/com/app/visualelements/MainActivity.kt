@@ -27,7 +27,8 @@ class MainActivity : ComponentActivity() {
                     //TestText()
                     //TestingTheme()
                     //TestImages()
-                    TestButtons()
+                    //TestButtons()
+                    IgLayoutExercise()
 
                     val context = LocalContext.current
                     Toast.makeText(context, "Olá, como vai?", Toast.LENGTH_SHORT).show()
